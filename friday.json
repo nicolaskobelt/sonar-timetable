@@ -1,0 +1,1918 @@
+{
+    "data": [
+        {
+            "start_hour": null,
+            "id": 8424,
+            "documentId": "xqfi2k0dwgsk0bzl5ba1o5e2",
+            "title": "Sara Landry ",
+            "slug": "sara-landry",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 19997,
+                    "day": "2026-06-19",
+                    "start_hour": "04:15:00",
+                    "end_hour": "05:35:00",
+                    "stage": {
+                        "id": 844,
+                        "name": "SonarClub",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-05-16T11:43:36.180Z",
+                        "updatedAt": "2026-05-07T11:06:38.407Z",
+                        "publishedAt": "2026-05-07T11:05:21.146Z",
+                        "slug": "sonarclub",
+                        "locale": "en",
+                        "documentId": "ab4spy7s6f0g2gv0tm0tfu5p"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 8426,
+            "documentId": "g8gfj9dy469nmudr6m8o26kh",
+            "title": "Cormac",
+            "slug": "cormac",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 20357,
+                    "day": "2026-06-19",
+                    "start_hour": "21:25:00",
+                    "end_hour": "23:10:00",
+                    "stage": {
+                        "id": 841,
+                        "name": "SonarVillage by Estrella Damm",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-05-16T11:24:28.629Z",
+                        "updatedAt": "2026-05-07T11:02:44.928Z",
+                        "publishedAt": "2026-05-07T11:00:44.011Z",
+                        "slug": "sonarvillage-by-estrella-damm",
+                        "locale": "en",
+                        "documentId": "g1ur3ckg7gw5uzlrr2z9bh2s"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 8428,
+            "documentId": "ubm2pw9u4vot50jyecndbal6",
+            "title": "SBTRKT live ",
+            "slug": "sbtrkt-live",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 19932,
+                    "day": "2026-06-19",
+                    "start_hour": "23:20:00",
+                    "end_hour": "00:20:00",
+                    "stage": {
+                        "id": 841,
+                        "name": "SonarVillage by Estrella Damm",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-05-16T11:24:28.629Z",
+                        "updatedAt": "2026-05-07T11:02:44.928Z",
+                        "publishedAt": "2026-05-07T11:00:44.011Z",
+                        "slug": "sonarvillage-by-estrella-damm",
+                        "locale": "en",
+                        "documentId": "g1ur3ckg7gw5uzlrr2z9bh2s"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 8432,
+            "documentId": "j60vciw6x3du89sy0031orlc",
+            "title": "Maz",
+            "slug": "maz",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 19917,
+                    "day": "2026-06-19",
+                    "start_hour": "18:35:00",
+                    "end_hour": "20:05:00",
+                    "stage": {
+                        "id": 841,
+                        "name": "SonarVillage by Estrella Damm",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-05-16T11:24:28.629Z",
+                        "updatedAt": "2026-05-07T11:02:44.928Z",
+                        "publishedAt": "2026-05-07T11:00:44.011Z",
+                        "slug": "sonarvillage-by-estrella-damm",
+                        "locale": "en",
+                        "documentId": "g1ur3ckg7gw5uzlrr2z9bh2s"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 8439,
+            "documentId": "fpxqo1yi0uz2jltc4ffwdp2i",
+            "title": "GlorySixVain",
+            "slug": "glorysixvain",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 19867,
+                    "day": "2026-06-19",
+                    "start_hour": "18:00:00",
+                    "end_hour": "18:45:00",
+                    "stage": {
+                        "id": 857,
+                        "name": "SonarPark",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-05-16T11:27:30.117Z",
+                        "updatedAt": "2026-05-07T11:24:42.829Z",
+                        "publishedAt": "2026-05-07T11:22:59.630Z",
+                        "slug": "sonarpark",
+                        "locale": "en",
+                        "documentId": "s2eyeqbdf6vowfyesnm3fhxd"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 8449,
+            "documentId": "ks8xcb2go4eu2bijotniycfl",
+            "title": "Ani in the Hall present Intel·ligència Romàntica",
+            "slug": "ani-in-the-hall",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 19817,
+                    "day": "2026-06-19",
+                    "start_hour": "18:30:00",
+                    "end_hour": "19:15:00",
+                    "stage": {
+                        "id": 854,
+                        "name": "SonarHall ",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-05-16T11:19:29.429Z",
+                        "updatedAt": "2026-05-07T11:19:27.742Z",
+                        "publishedAt": "2026-05-07T11:17:43.260Z",
+                        "slug": "sonarhall",
+                        "locale": "en",
+                        "documentId": "zprayfprr3harqjomq8k8gr1"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 8453,
+            "documentId": "x5jwozba25gg7ilxinf6njgc",
+            "title": "Beatrix Weapons presents BO$$Y OF MUSIC live",
+            "slug": "beatrix-weapons",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 19827,
+                    "day": "2026-06-19",
+                    "start_hour": "20:55:00",
+                    "end_hour": "21:55:00",
+                    "stage": {
+                        "id": 854,
+                        "name": "SonarHall ",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-05-16T11:19:29.429Z",
+                        "updatedAt": "2026-05-07T11:19:27.742Z",
+                        "publishedAt": "2026-05-07T11:17:43.260Z",
+                        "slug": "sonarhall",
+                        "locale": "en",
+                        "documentId": "zprayfprr3harqjomq8k8gr1"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 8461,
+            "documentId": "dvy5eohlsqp6g5w1lmmc518a",
+            "title": "Olivia Babe",
+            "slug": "olivia-babe",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 20007,
+                    "day": "2026-06-19",
+                    "start_hour": "20:30:00",
+                    "end_hour": "21:45:00",
+                    "stage": {
+                        "id": 847,
+                        "name": "SonarLab x Rinse",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-03-27T10:04:18.683Z",
+                        "updatedAt": "2026-05-07T11:10:02.640Z",
+                        "publishedAt": "2026-05-07T11:08:59.890Z",
+                        "slug": "sonarlab",
+                        "locale": "en",
+                        "documentId": "x2woxm0k33n5zwi0vw381sly"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 8475,
+            "documentId": "o3s5la8pmpiy39ql9t9c68dl",
+            "title": "TAYHANA & MissLupe",
+            "slug": "tayhana-misslupe",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 20417,
+                    "day": "2026-06-19",
+                    "start_hour": "21:45:00",
+                    "end_hour": "23:15:00",
+                    "stage": {
+                        "id": 857,
+                        "name": "SonarPark",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-05-16T11:27:30.117Z",
+                        "updatedAt": "2026-05-07T11:24:42.829Z",
+                        "publishedAt": "2026-05-07T11:22:59.630Z",
+                        "slug": "sonarpark",
+                        "locale": "en",
+                        "documentId": "s2eyeqbdf6vowfyesnm3fhxd"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 8478,
+            "documentId": "uqrob8pvayy2atgcauih3m7f",
+            "title": "Perra Inmunda",
+            "slug": "perra-inmunda",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 19892,
+                    "day": "2026-06-19",
+                    "start_hour": "23:25:00",
+                    "end_hour": "00:40:00",
+                    "stage": {
+                        "id": 857,
+                        "name": "SonarPark",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-05-16T11:27:30.117Z",
+                        "updatedAt": "2026-05-07T11:24:42.829Z",
+                        "publishedAt": "2026-05-07T11:22:59.630Z",
+                        "slug": "sonarpark",
+                        "locale": "en",
+                        "documentId": "s2eyeqbdf6vowfyesnm3fhxd"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 8483,
+            "documentId": "htx5wk9bdczi4oltbgmrb5dj",
+            "title": "⌭ IceMorph ⌬",
+            "slug": "icemorph",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 20027,
+                    "day": "2026-06-19",
+                    "start_hour": "02:30:00",
+                    "end_hour": "03:45:00",
+                    "stage": {
+                        "id": 847,
+                        "name": "SonarLab x Rinse",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-03-27T10:04:18.683Z",
+                        "updatedAt": "2026-05-07T11:10:02.640Z",
+                        "publishedAt": "2026-05-07T11:08:59.890Z",
+                        "slug": "sonarlab",
+                        "locale": "en",
+                        "documentId": "x2woxm0k33n5zwi0vw381sly"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 8486,
+            "documentId": "gwbw9qzvh4u5hbr6z3tr1lvi",
+            "title": "Goldie b2b Doc Scott ft Medic MC",
+            "slug": "goldie-b2b-doc-scott-medic-mc",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 20022,
+                    "day": "2026-06-19",
+                    "start_hour": "00:40:00",
+                    "end_hour": "02:20:00",
+                    "stage": {
+                        "id": 847,
+                        "name": "SonarLab x Rinse",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-03-27T10:04:18.683Z",
+                        "updatedAt": "2026-05-07T11:10:02.640Z",
+                        "publishedAt": "2026-05-07T11:08:59.890Z",
+                        "slug": "sonarlab",
+                        "locale": "en",
+                        "documentId": "x2woxm0k33n5zwi0vw381sly"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 8495,
+            "documentId": "frozah05bonief6hedqc242u",
+            "title": "Kelis",
+            "slug": "kelis",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 19922,
+                    "day": "2026-06-19",
+                    "start_hour": "20:15:00",
+                    "end_hour": "21:15:00",
+                    "stage": {
+                        "id": 841,
+                        "name": "SonarVillage by Estrella Damm",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-05-16T11:24:28.629Z",
+                        "updatedAt": "2026-05-07T11:02:44.928Z",
+                        "publishedAt": "2026-05-07T11:00:44.011Z",
+                        "slug": "sonarvillage-by-estrella-damm",
+                        "locale": "en",
+                        "documentId": "g1ur3ckg7gw5uzlrr2z9bh2s"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 8498,
+            "documentId": "cp7g937d07z6pw502s2zx7on",
+            "title": "DJ Gigola",
+            "slug": "dj-gigola",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 19992,
+                    "day": "2026-06-19",
+                    "start_hour": "02:35:00",
+                    "end_hour": "04:05:00",
+                    "stage": {
+                        "id": 844,
+                        "name": "SonarClub",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-05-16T11:43:36.180Z",
+                        "updatedAt": "2026-05-07T11:06:38.407Z",
+                        "publishedAt": "2026-05-07T11:05:21.146Z",
+                        "slug": "sonarclub",
+                        "locale": "en",
+                        "documentId": "ab4spy7s6f0g2gv0tm0tfu5p"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 8499,
+            "documentId": "sjyjmcvu99xzts9o6h2e1ysp",
+            "title": "MK (Marc Kinchen) b2b TSHA",
+            "slug": "mk-b2b-tsha",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 19952,
+                    "day": "2026-06-19",
+                    "start_hour": "05:00:00",
+                    "end_hour": "07:00:00",
+                    "stage": {
+                        "id": 841,
+                        "name": "SonarVillage by Estrella Damm",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-05-16T11:24:28.629Z",
+                        "updatedAt": "2026-05-07T11:02:44.928Z",
+                        "publishedAt": "2026-05-07T11:00:44.011Z",
+                        "slug": "sonarvillage-by-estrella-damm",
+                        "locale": "en",
+                        "documentId": "g1ur3ckg7gw5uzlrr2z9bh2s"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 8500,
+            "documentId": "uvryw0f7widy7iqfv1kclf04",
+            "title": "Funk Tribu",
+            "slug": "funk-tribu",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 19967,
+                    "day": "2026-06-19",
+                    "start_hour": "23:10:00",
+                    "end_hour": "00:45:00",
+                    "stage": {
+                        "id": 844,
+                        "name": "SonarClub",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-05-16T11:43:36.180Z",
+                        "updatedAt": "2026-05-07T11:06:38.407Z",
+                        "publishedAt": "2026-05-07T11:05:21.146Z",
+                        "slug": "sonarclub",
+                        "locale": "en",
+                        "documentId": "ab4spy7s6f0g2gv0tm0tfu5p"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 8509,
+            "documentId": "fn4haxqwyoqok9bg03nteg43",
+            "title": "Nia Archives",
+            "slug": "nia-archives",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 20017,
+                    "day": "2026-06-19",
+                    "start_hour": "23:30:00",
+                    "end_hour": "00:30:00",
+                    "stage": {
+                        "id": 847,
+                        "name": "SonarLab x Rinse",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-03-27T10:04:18.683Z",
+                        "updatedAt": "2026-05-07T11:10:02.640Z",
+                        "publishedAt": "2026-05-07T11:08:59.890Z",
+                        "slug": "sonarlab",
+                        "locale": "en",
+                        "documentId": "x2woxm0k33n5zwi0vw381sly"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 8513,
+            "documentId": "gqxusa7ek53hqiumjvzyje81",
+            "title": "Charlotte de Witte",
+            "slug": "charlotte-de-witte",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 19984,
+                    "day": "2026-06-19",
+                    "start_hour": "00:55:00",
+                    "end_hour": "02:25:00",
+                    "stage": {
+                        "id": 844,
+                        "name": "SonarClub",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-05-16T11:43:36.180Z",
+                        "updatedAt": "2026-05-07T11:06:38.407Z",
+                        "publishedAt": "2026-05-07T11:05:21.146Z",
+                        "slug": "sonarclub",
+                        "locale": "en",
+                        "documentId": "ab4spy7s6f0g2gv0tm0tfu5p"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 8516,
+            "documentId": "rp2y5u9yg6ej6csmvzvn86qe",
+            "title": "Skepta",
+            "slug": "skepta",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 19962,
+                    "day": "2026-06-19",
+                    "start_hour": "22:00:00",
+                    "end_hour": "23:00:00",
+                    "stage": {
+                        "id": 844,
+                        "name": "SonarClub",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-05-16T11:43:36.180Z",
+                        "updatedAt": "2026-05-07T11:06:38.407Z",
+                        "publishedAt": "2026-05-07T11:05:21.146Z",
+                        "slug": "sonarclub",
+                        "locale": "en",
+                        "documentId": "ab4spy7s6f0g2gv0tm0tfu5p"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 8624,
+            "documentId": "prjluvni5h9nbpqefsgkajwy",
+            "title": "Amaliah b2b Pangaea",
+            "slug": "amaliah-b2b-pangaea",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 20037,
+                    "day": "2026-06-19",
+                    "start_hour": "05:30:00",
+                    "end_hour": "07:00:00",
+                    "stage": {
+                        "id": 847,
+                        "name": "SonarLab x Rinse",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-03-27T10:04:18.683Z",
+                        "updatedAt": "2026-05-07T11:10:02.640Z",
+                        "publishedAt": "2026-05-07T11:08:59.890Z",
+                        "slug": "sonarlab",
+                        "locale": "en",
+                        "documentId": "x2woxm0k33n5zwi0vw381sly"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 8633,
+            "documentId": "ns0lw8057ubl9kk0d16bsj4x",
+            "title": "Amanda Mussi",
+            "slug": "amanda-mussi",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 19862,
+                    "day": "2026-06-19",
+                    "start_hour": "03:50:00",
+                    "end_hour": "05:00:00",
+                    "stage": {
+                        "id": 854,
+                        "name": "SonarHall ",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-05-16T11:19:29.429Z",
+                        "updatedAt": "2026-05-07T11:19:27.742Z",
+                        "publishedAt": "2026-05-07T11:17:43.260Z",
+                        "slug": "sonarhall",
+                        "locale": "en",
+                        "documentId": "zprayfprr3harqjomq8k8gr1"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 8653,
+            "documentId": "xeygjl9tcrwzndtfinp0pgbl",
+            "title": "Reinier Zonneveld presents R2 (b2b AI, Holographic AV)",
+            "slug": "reinier-zonneveld-r2-ai",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 19847,
+                    "day": "2026-06-19",
+                    "start_hour": "00:10:00",
+                    "end_hour": "01:10:00",
+                    "stage": {
+                        "id": 854,
+                        "name": "SonarHall ",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-05-16T11:19:29.429Z",
+                        "updatedAt": "2026-05-07T11:19:27.742Z",
+                        "publishedAt": "2026-05-07T11:17:43.260Z",
+                        "slug": "sonarhall",
+                        "locale": "en",
+                        "documentId": "zprayfprr3harqjomq8k8gr1"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 8730,
+            "documentId": "cyjqaghm1hdh45m5zqunavxv",
+            "title": "Daito Manabe",
+            "slug": "daito-manabe-2026",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 19822,
+                    "day": "2026-06-19",
+                    "start_hour": "20:00:00",
+                    "end_hour": "20:50:00",
+                    "stage": {
+                        "id": 854,
+                        "name": "SonarHall ",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-05-16T11:19:29.429Z",
+                        "updatedAt": "2026-05-07T11:19:27.742Z",
+                        "publishedAt": "2026-05-07T11:17:43.260Z",
+                        "slug": "sonarhall",
+                        "locale": "en",
+                        "documentId": "zprayfprr3harqjomq8k8gr1"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 8739,
+            "documentId": "rwgey0k0g9lfzcgvu8bisk2e",
+            "title": "Speedy J presents STOOR Live with FJAAK, KiNK and Nene H",
+            "slug": "speedy-j-presents-stoor-live-friday",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 20047,
+                    "day": "2026-06-19",
+                    "start_hour": "20:00:00",
+                    "end_hour": "03:00:00",
+                    "stage": {
+                        "id": 851,
+                        "name": "SonarCar",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-03-27T10:27:15.010Z",
+                        "updatedAt": "2026-05-07T11:12:31.814Z",
+                        "publishedAt": "2026-05-07T11:12:09.103Z",
+                        "slug": "sonarcar",
+                        "locale": "en",
+                        "documentId": "eguhc3mi715ipl4f5336hr4x"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 8743,
+            "documentId": "urzvsspal6m4nlmowuin0lca",
+            "title": "Nina GGG",
+            "slug": "nina-ggg",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 19852,
+                    "day": "2026-06-19",
+                    "start_hour": "01:15:00",
+                    "end_hour": "02:25:00",
+                    "stage": {
+                        "id": 854,
+                        "name": "SonarHall ",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-05-16T11:19:29.429Z",
+                        "updatedAt": "2026-05-07T11:19:27.742Z",
+                        "publishedAt": "2026-05-07T11:17:43.260Z",
+                        "slug": "sonarhall",
+                        "locale": "en",
+                        "documentId": "zprayfprr3harqjomq8k8gr1"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 8759,
+            "documentId": "zgyr9np9r242at1vfv8pab98",
+            "title": "Baby Pantera presents Desidia",
+            "slug": "baby-pantera",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 19872,
+                    "day": "2026-06-19",
+                    "start_hour": "18:55:00",
+                    "end_hour": "20:25:00",
+                    "stage": {
+                        "id": 857,
+                        "name": "SonarPark",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-05-16T11:27:30.117Z",
+                        "updatedAt": "2026-05-07T11:24:42.829Z",
+                        "publishedAt": "2026-05-07T11:22:59.630Z",
+                        "slug": "sonarpark",
+                        "locale": "en",
+                        "documentId": "s2eyeqbdf6vowfyesnm3fhxd"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 8772,
+            "documentId": "de7ieeirz2ts7rcugnzxui98",
+            "title": "Addison Groove ",
+            "slug": "addison-groove",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 20062,
+                    "day": "2026-06-19",
+                    "start_hour": "03:55:00",
+                    "end_hour": "05:25:00",
+                    "stage": {
+                        "id": 847,
+                        "name": "SonarLab x Rinse",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-03-27T10:04:18.683Z",
+                        "updatedAt": "2026-05-07T11:10:02.640Z",
+                        "publishedAt": "2026-05-07T11:08:59.890Z",
+                        "slug": "sonarlab",
+                        "locale": "en",
+                        "documentId": "x2woxm0k33n5zwi0vw381sly"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 8781,
+            "documentId": "nua4rqrj7s1pwd61lo51jnh8",
+            "title": "Cutemobb",
+            "slug": "cutemobb",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 19877,
+                    "day": "2026-06-19",
+                    "start_hour": "20:35:00",
+                    "end_hour": "21:35:00",
+                    "stage": {
+                        "id": 857,
+                        "name": "SonarPark",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-05-16T11:27:30.117Z",
+                        "updatedAt": "2026-05-07T11:24:42.829Z",
+                        "publishedAt": "2026-05-07T11:22:59.630Z",
+                        "slug": "sonarpark",
+                        "locale": "en",
+                        "documentId": "s2eyeqbdf6vowfyesnm3fhxd"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 8786,
+            "documentId": "bgzsqyo3m8wiqonxa5ge68yn",
+            "title": "DJ AYA",
+            "slug": "dj-aya",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 19907,
+                    "day": "2026-06-19",
+                    "start_hour": "03:30:00",
+                    "end_hour": "06:00:00",
+                    "stage": {
+                        "id": 857,
+                        "name": "SonarPark",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-05-16T11:27:30.117Z",
+                        "updatedAt": "2026-05-07T11:24:42.829Z",
+                        "publishedAt": "2026-05-07T11:22:59.630Z",
+                        "slug": "sonarpark",
+                        "locale": "en",
+                        "documentId": "s2eyeqbdf6vowfyesnm3fhxd"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 8790,
+            "documentId": "ssy36j812o6qjnrj2am03d8h",
+            "title": "Jesuz X b2b Ne/Re/A",
+            "slug": "jesuz-x-b2b-ne-re-a",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 19857,
+                    "day": "2026-06-19",
+                    "start_hour": "02:30:00",
+                    "end_hour": "03:45:00",
+                    "stage": {
+                        "id": 854,
+                        "name": "SonarHall ",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-05-16T11:19:29.429Z",
+                        "updatedAt": "2026-05-07T11:19:27.742Z",
+                        "publishedAt": "2026-05-07T11:17:43.260Z",
+                        "slug": "sonarhall",
+                        "locale": "en",
+                        "documentId": "zprayfprr3harqjomq8k8gr1"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 8796,
+            "documentId": "ygo28xbadh01q6nhmcmbyrtj",
+            "title": "YHWH Nailgun",
+            "slug": "yhwh-nailgun",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 19837,
+                    "day": "2026-06-19",
+                    "start_hour": "22:00:00",
+                    "end_hour": "23:00:00",
+                    "stage": {
+                        "id": 854,
+                        "name": "SonarHall ",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-05-16T11:19:29.429Z",
+                        "updatedAt": "2026-05-07T11:19:27.742Z",
+                        "publishedAt": "2026-05-07T11:17:43.260Z",
+                        "slug": "sonarhall",
+                        "locale": "en",
+                        "documentId": "zprayfprr3harqjomq8k8gr1"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 8813,
+            "documentId": "ls4r4dhnlokx9ln1s7agg8ps",
+            "title": "Miss Bashful",
+            "slug": "miss-bashful",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 20055,
+                    "day": "2026-06-19",
+                    "start_hour": "02:20:00",
+                    "end_hour": "03:20:00",
+                    "stage": {
+                        "id": 857,
+                        "name": "SonarPark",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-05-16T11:27:30.117Z",
+                        "updatedAt": "2026-05-07T11:24:42.829Z",
+                        "publishedAt": "2026-05-07T11:22:59.630Z",
+                        "slug": "sonarpark",
+                        "locale": "en",
+                        "documentId": "s2eyeqbdf6vowfyesnm3fhxd"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 8838,
+            "documentId": "cl2xkmzqbtsv0zbth5kfhbyt",
+            "title": "Arthi",
+            "slug": "arthi",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 19937,
+                    "day": "2026-06-19",
+                    "start_hour": "00:30:00",
+                    "end_hour": "01:35:00",
+                    "stage": {
+                        "id": 841,
+                        "name": "SonarVillage by Estrella Damm",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-05-16T11:24:28.629Z",
+                        "updatedAt": "2026-05-07T11:02:44.928Z",
+                        "publishedAt": "2026-05-07T11:00:44.011Z",
+                        "slug": "sonarvillage-by-estrella-damm",
+                        "locale": "en",
+                        "documentId": "g1ur3ckg7gw5uzlrr2z9bh2s"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 9175,
+            "documentId": "daiwpfqk0kfudlkt0ngs3j00",
+            "title": "Zuri",
+            "slug": "zuri",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 19957,
+                    "day": "2026-06-19",
+                    "start_hour": "21:00:00",
+                    "end_hour": "21:50:00",
+                    "stage": {
+                        "id": 844,
+                        "name": "SonarClub",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-05-16T11:43:36.180Z",
+                        "updatedAt": "2026-05-07T11:06:38.407Z",
+                        "publishedAt": "2026-05-07T11:05:21.146Z",
+                        "slug": "sonarclub",
+                        "locale": "en",
+                        "documentId": "ab4spy7s6f0g2gv0tm0tfu5p"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 9198,
+            "documentId": "bra04t7c22ldrm4xfe83p93w",
+            "title": "Kilopatrah Jones",
+            "slug": "kilopatrah-jones",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 19947,
+                    "day": "2026-06-19",
+                    "start_hour": "03:25:00",
+                    "end_hour": "04:55:00",
+                    "stage": {
+                        "id": 841,
+                        "name": "SonarVillage by Estrella Damm",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-05-16T11:24:28.629Z",
+                        "updatedAt": "2026-05-07T11:02:44.928Z",
+                        "publishedAt": "2026-05-07T11:00:44.011Z",
+                        "slug": "sonarvillage-by-estrella-damm",
+                        "locale": "en",
+                        "documentId": "g1ur3ckg7gw5uzlrr2z9bh2s"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 9209,
+            "documentId": "du1znvlk54tuhbxc6h5v4zbn",
+            "title": "GOTH-TRAD ",
+            "slug": "goth-trad",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 19842,
+                    "day": "2026-06-19",
+                    "start_hour": "23:05:00",
+                    "end_hour": "00:05:00",
+                    "stage": {
+                        "id": 854,
+                        "name": "SonarHall ",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-05-16T11:19:29.429Z",
+                        "updatedAt": "2026-05-07T11:19:27.742Z",
+                        "publishedAt": "2026-05-07T11:17:43.260Z",
+                        "slug": "sonarhall",
+                        "locale": "en",
+                        "documentId": "zprayfprr3harqjomq8k8gr1"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 9220,
+            "documentId": "uh7gkrhd2nmksfymaqm7rqjt",
+            "title": "RONI",
+            "slug": "roni",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 19897,
+                    "day": "2026-06-19",
+                    "start_hour": "00:50:00",
+                    "end_hour": "02:10:00",
+                    "stage": {
+                        "id": 857,
+                        "name": "SonarPark",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-05-16T11:27:30.117Z",
+                        "updatedAt": "2026-05-07T11:24:42.829Z",
+                        "publishedAt": "2026-05-07T11:22:59.630Z",
+                        "slug": "sonarpark",
+                        "locale": "en",
+                        "documentId": "s2eyeqbdf6vowfyesnm3fhxd"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 9223,
+            "documentId": "x6xrt5le0029htq18mal4sl1",
+            "title": "riria",
+            "slug": "riria",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 20012,
+                    "day": "2026-06-19",
+                    "start_hour": "21:50:00",
+                    "end_hour": "23:20:00",
+                    "stage": {
+                        "id": 847,
+                        "name": "SonarLab x Rinse",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-03-27T10:04:18.683Z",
+                        "updatedAt": "2026-05-07T11:10:02.640Z",
+                        "publishedAt": "2026-05-07T11:08:59.890Z",
+                        "slug": "sonarlab",
+                        "locale": "en",
+                        "documentId": "x2woxm0k33n5zwi0vw381sly"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 9316,
+            "documentId": "ofqxidra1nx6gu8hdrsdl12n",
+            "title": "Daria Kolosova",
+            "slug": "daria-kolosova",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 20002,
+                    "day": "2026-06-19",
+                    "start_hour": "05:45:00",
+                    "end_hour": "07:00:00",
+                    "stage": {
+                        "id": 844,
+                        "name": "SonarClub",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-05-16T11:43:36.180Z",
+                        "updatedAt": "2026-05-07T11:06:38.407Z",
+                        "publishedAt": "2026-05-07T11:05:21.146Z",
+                        "slug": "sonarclub",
+                        "locale": "en",
+                        "documentId": "ab4spy7s6f0g2gv0tm0tfu5p"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 9421,
+            "documentId": "rpi4etqm1ceorn1ppv8oq2zt",
+            "title": "Afri K",
+            "slug": "afri-k",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 19912,
+                    "day": "2026-06-19",
+                    "start_hour": "17:00:00",
+                    "end_hour": "18:30:00",
+                    "stage": {
+                        "id": 841,
+                        "name": "SonarVillage by Estrella Damm",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-05-16T11:24:28.629Z",
+                        "updatedAt": "2026-05-07T11:02:44.928Z",
+                        "publishedAt": "2026-05-07T11:00:44.011Z",
+                        "slug": "sonarvillage-by-estrella-damm",
+                        "locale": "en",
+                        "documentId": "g1ur3ckg7gw5uzlrr2z9bh2s"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 9783,
+            "documentId": "uapa0g8mljicqlctqx4fta05",
+            "title": "Sammy Virji",
+            "slug": "sammy-virji",
+            "category": {
+                "id": 1,
+                "name": "Music",
+                "createdAt": "2023-04-03T10:27:50.628Z",
+                "updatedAt": "2023-04-24T09:14:55.077Z",
+                "publishedAt": "2023-04-03T10:27:51.567Z",
+                "documentId": "i5v0c36bonsvsjs4xqz282ax"
+            },
+            "schedules": [
+                {
+                    "id": 20392,
+                    "day": "2026-06-19",
+                    "start_hour": "01:45:00",
+                    "end_hour": "03:15:00",
+                    "stage": {
+                        "id": 841,
+                        "name": "SonarVillage by Estrella Damm",
+                        "is_sonar_d": null,
+                        "createdAt": "2025-05-16T11:24:28.629Z",
+                        "updatedAt": "2026-05-07T11:02:44.928Z",
+                        "publishedAt": "2026-05-07T11:00:44.011Z",
+                        "slug": "sonarvillage-by-estrella-damm",
+                        "locale": "en",
+                        "documentId": "g1ur3ckg7gw5uzlrr2z9bh2s"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 9884,
+            "documentId": "tkgughouoiacfz68vgwx742b",
+            "title": "ORGANYSMO by LedPulse",
+            "slug": "organysmo-led-pulse",
+            "category": {
+                "id": 2,
+                "name": "Exhibition",
+                "createdAt": "2023-04-03T10:28:00.578Z",
+                "updatedAt": "2023-04-24T09:14:55.084Z",
+                "publishedAt": "2023-04-03T10:28:01.497Z",
+                "documentId": "s045zktz0prr7afkv1axc81a"
+            },
+            "schedules": [
+                {
+                    "id": 20972,
+                    "day": "2026-06-18",
+                    "start_hour": "17:00:00",
+                    "end_hour": "02:00:00",
+                    "stage": {
+                        "id": 862,
+                        "name": "Installations",
+                        "is_sonar_d": null,
+                        "createdAt": "2026-05-13T07:51:24.230Z",
+                        "updatedAt": "2026-05-13T07:51:32.184Z",
+                        "publishedAt": "2026-05-13T07:51:24.387Z",
+                        "slug": null,
+                        "locale": "en",
+                        "documentId": "ffu1oyv36uyye1d13wzeuk0k"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                },
+                {
+                    "id": 20973,
+                    "day": "2026-06-19",
+                    "start_hour": "17:00:00",
+                    "end_hour": "05:00:00",
+                    "stage": {
+                        "id": 862,
+                        "name": "Installations",
+                        "is_sonar_d": null,
+                        "createdAt": "2026-05-13T07:51:24.230Z",
+                        "updatedAt": "2026-05-13T07:51:32.184Z",
+                        "publishedAt": "2026-05-13T07:51:24.387Z",
+                        "slug": null,
+                        "locale": "en",
+                        "documentId": "ffu1oyv36uyye1d13wzeuk0k"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                },
+                {
+                    "id": 20974,
+                    "day": "2026-06-20",
+                    "start_hour": "17:00:00",
+                    "end_hour": "07:00:00",
+                    "stage": {
+                        "id": 862,
+                        "name": "Installations",
+                        "is_sonar_d": null,
+                        "createdAt": "2026-05-13T07:51:24.230Z",
+                        "updatedAt": "2026-05-13T07:51:32.184Z",
+                        "publishedAt": "2026-05-13T07:51:24.387Z",
+                        "slug": null,
+                        "locale": "en",
+                        "documentId": "ffu1oyv36uyye1d13wzeuk0k"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        },
+        {
+            "start_hour": null,
+            "id": 9899,
+            "documentId": "o2rp0mcbami22oqkq3av1j7x",
+            "title": "fritz-kolab: Dins by Desilence",
+            "slug": "fritz-kolab-dins-desilence",
+            "category": {
+                "id": 2,
+                "name": "Exhibition",
+                "createdAt": "2023-04-03T10:28:00.578Z",
+                "updatedAt": "2023-04-24T09:14:55.084Z",
+                "publishedAt": "2023-04-03T10:28:01.497Z",
+                "documentId": "s045zktz0prr7afkv1axc81a"
+            },
+            "schedules": [
+                {
+                    "id": 21046,
+                    "day": "2026-06-18",
+                    "start_hour": "17:00:00",
+                    "end_hour": "03:00:00",
+                    "stage": {
+                        "id": 862,
+                        "name": "Installations",
+                        "is_sonar_d": null,
+                        "createdAt": "2026-05-13T07:51:24.230Z",
+                        "updatedAt": "2026-05-13T07:51:32.184Z",
+                        "publishedAt": "2026-05-13T07:51:24.387Z",
+                        "slug": null,
+                        "locale": "en",
+                        "documentId": "ffu1oyv36uyye1d13wzeuk0k"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                },
+                {
+                    "id": 21047,
+                    "day": "2026-06-19",
+                    "start_hour": "17:00:00",
+                    "end_hour": "07:00:00",
+                    "stage": {
+                        "id": 862,
+                        "name": "Installations",
+                        "is_sonar_d": null,
+                        "createdAt": "2026-05-13T07:51:24.230Z",
+                        "updatedAt": "2026-05-13T07:51:32.184Z",
+                        "publishedAt": "2026-05-13T07:51:24.387Z",
+                        "slug": null,
+                        "locale": "en",
+                        "documentId": "ffu1oyv36uyye1d13wzeuk0k"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                },
+                {
+                    "id": 21048,
+                    "day": "2026-06-20",
+                    "start_hour": "17:00:00",
+                    "end_hour": "07:00:00",
+                    "stage": {
+                        "id": 862,
+                        "name": "Installations",
+                        "is_sonar_d": null,
+                        "createdAt": "2026-05-13T07:51:24.230Z",
+                        "updatedAt": "2026-05-13T07:51:32.184Z",
+                        "publishedAt": "2026-05-13T07:51:24.387Z",
+                        "slug": null,
+                        "locale": "en",
+                        "documentId": "ffu1oyv36uyye1d13wzeuk0k"
+                    },
+                    "type": {
+                        "id": 40,
+                        "name": "Sónar",
+                        "createdAt": "2025-11-17T11:38:02.896Z",
+                        "updatedAt": "2025-11-17T11:38:02.896Z",
+                        "publishedAt": "2025-11-17T11:38:02.961Z",
+                        "documentId": "iuw5s50nh8353ucu06wi0cfu"
+                    }
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 75,
+            "pageCount": 1,
+            "total": 43
+        }
+    }
+}
